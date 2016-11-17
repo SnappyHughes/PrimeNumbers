@@ -1,0 +1,5 @@
+c:\users\cameron\documents\visual studio 2015\Projects\PrimeNumberSolution\PrimeNumberSolution\bin\Debug\PrimeNumberSolution.dll
+c:\users\cameron\documents\visual studio 2015\Projects\PrimeNumberSolution\PrimeNumberSolution\bin\Debug\PrimeNumberSolution.pdb
+c:\users\cameron\documents\visual studio 2015\Projects\PrimeNumberSolution\PrimeNumberSolution\obj\Debug\PrimeNumberSolution.csprojResolveAssemblyReference.cache
+c:\users\cameron\documents\visual studio 2015\Projects\PrimeNumberSolution\PrimeNumberSolution\obj\Debug\PrimeNumberSolution.dll
+c:\users\cameron\documents\visual studio 2015\Projects\PrimeNumberSolution\PrimeNumberSolution\obj\Debug\PrimeNumberSolution.pdb

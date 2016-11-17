@@ -1,0 +1,8 @@
+c:\users\cameron\documents\visual studio 2015\Projects\PrimeNumberSolution\PrimeCalculator.ConsoleApp\bin\Debug\PrimeCalculator.ConsoleApp.exe.config
+c:\users\cameron\documents\visual studio 2015\Projects\PrimeNumberSolution\PrimeCalculator.ConsoleApp\bin\Debug\PrimeCalculator.ConsoleApp.exe
+c:\users\cameron\documents\visual studio 2015\Projects\PrimeNumberSolution\PrimeCalculator.ConsoleApp\bin\Debug\PrimeCalculator.ConsoleApp.pdb
+c:\users\cameron\documents\visual studio 2015\Projects\PrimeNumberSolution\PrimeCalculator.ConsoleApp\bin\Debug\PrimeNumberSolution.dll
+c:\users\cameron\documents\visual studio 2015\Projects\PrimeNumberSolution\PrimeCalculator.ConsoleApp\bin\Debug\PrimeNumberSolution.pdb
+c:\users\cameron\documents\visual studio 2015\Projects\PrimeNumberSolution\PrimeCalculator.ConsoleApp\obj\Debug\PrimeCalculator.ConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\cameron\documents\visual studio 2015\Projects\PrimeNumberSolution\PrimeCalculator.ConsoleApp\obj\Debug\PrimeCalculator.ConsoleApp.exe
+c:\users\cameron\documents\visual studio 2015\Projects\PrimeNumberSolution\PrimeCalculator.ConsoleApp\obj\Debug\PrimeCalculator.ConsoleApp.pdb

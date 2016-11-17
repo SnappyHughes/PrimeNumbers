@@ -1,0 +1,30 @@
+﻿
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Prime Calculator</title>
+    <link href="~/Content/Site.css" rel="stylesheet" />
+</head>
+<body>
+    <div align="center" class="pageTitle"> 
+        My Prime Number Calculator!!
+    </div>
+    <div align="center">
+        @using (Html.BeginForm("Index", "Home", FormMethod.Post))
+        {
+            <label class="subtitle">Please Enter A Number</label> <br />
+            <input type="number" value="number" name="number" required/> <br />
+            <input type="submit" value="Get Nth Prime Number" class="submitButton"/>
+        }
+    </div>
+    @{
+        if (Model != null)
+        {
+            <div class="subtitle" align="center">The Nth Prime Number Is</div>
+            <div class="result" align="center">@Model</div>
+        }
+    }
+</body>
+</html>

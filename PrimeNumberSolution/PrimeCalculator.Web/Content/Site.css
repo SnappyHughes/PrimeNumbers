@@ -1,0 +1,22 @@
+﻿body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif 
+}
+
+.pageTitle{
+    font-size: 55px;
+    margin: 40px;
+}
+
+.subtitle{
+    font-size: 25px;
+}
+
+.submitButton{
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.result{
+    font-size: 140px;
+    margin-top: 20px;
+}
