@@ -25,5 +25,25 @@ namespace PrimeNumberSolution.Test
 
             Assert.IsFalse(result);
         }
+
+        [TestMethod]
+        public void GivenOneItShouldReturnFalse()
+        {
+            var primeCalculator = new PrimeNumberCalculator();
+
+            var result = primeCalculator.IsPrime(1);
+
+            Assert.IsFalse(result);
+        }
+
+        [TestMethod]
+        public void GivenZeroItShouldReturnFalse()
+        {
+            var primeCalculator = new PrimeNumberCalculator();
+
+            var result = primeCalculator.IsPrime(0);
+
+            Assert.IsFalse(result);
+        }
     }
 }

@@ -1,8 +1,5 @@
-﻿using PrimeNumberSolution;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
+﻿using PrimeCalculator.Web.Helpers;
+using PrimeNumberSolution;
 using System.Web.Mvc;
 
 namespace PrimeCalculator.Web.Controllers
@@ -22,9 +19,15 @@ namespace PrimeCalculator.Web.Controllers
         }
         
         [HttpPost]
-        public ActionResult Index(int number)
+        public ActionResult Index(int nthPrime)
         {
-            var primeNumber = _primeCalculator.GetNthPrime(number);
+            if (nthPrime == 0)
+            {
+                ViewBag.Message = MessageHelper.InputIsInvalid;
+                return View("Index");
+            }
+            
+            var primeNumber = _primeCalculator.GetNthPrime(nthPrime);
 
             return View("Index", primeNumber);
         }

@@ -14,7 +14,7 @@ namespace PrimeCalculator.ConsoleApp
 
             var number = int.Parse(input);
 
-            Console.Write("The Next Prime Number Is: " + primeCalculator.GetNextPrime(number));
+            Console.Write("The Nth Prime Number Is: " + primeCalculator.GetNthPrime(number));
             Console.ReadLine();
         }
     }
