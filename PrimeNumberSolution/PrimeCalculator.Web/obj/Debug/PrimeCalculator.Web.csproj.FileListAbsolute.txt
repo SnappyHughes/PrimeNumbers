@@ -33,3 +33,38 @@ c:\users\cameron\documents\visual studio 2015\Projects\PrimeNumberSolution\Prime
 c:\users\cameron\documents\visual studio 2015\Projects\PrimeNumberSolution\PrimeCalculator.Web\obj\Debug\PrimeCalculator.Web.csprojResolveAssemblyReference.cache
 c:\users\cameron\documents\visual studio 2015\Projects\PrimeNumberSolution\PrimeCalculator.Web\obj\Debug\PrimeCalculator.Web.dll
 c:\users\cameron\documents\visual studio 2015\Projects\PrimeNumberSolution\PrimeCalculator.Web\obj\Debug\PrimeCalculator.Web.pdb
+C:\Users\Cameron\Documents\GitHub\PrimeNumbers\PrimeNumberSolution\PrimeCalculator.Web\bin\roslyn\csc.exe
+C:\Users\Cameron\Documents\GitHub\PrimeNumbers\PrimeNumberSolution\PrimeCalculator.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Cameron\Documents\GitHub\PrimeNumbers\PrimeNumberSolution\PrimeCalculator.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Cameron\Documents\GitHub\PrimeNumbers\PrimeNumberSolution\PrimeCalculator.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Cameron\Documents\GitHub\PrimeNumbers\PrimeNumberSolution\PrimeCalculator.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Cameron\Documents\GitHub\PrimeNumbers\PrimeNumberSolution\PrimeCalculator.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Cameron\Documents\GitHub\PrimeNumbers\PrimeNumberSolution\PrimeCalculator.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Cameron\Documents\GitHub\PrimeNumbers\PrimeNumberSolution\PrimeCalculator.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Cameron\Documents\GitHub\PrimeNumbers\PrimeNumberSolution\PrimeCalculator.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Cameron\Documents\GitHub\PrimeNumbers\PrimeNumberSolution\PrimeCalculator.Web\bin\roslyn\vbc.exe
+C:\Users\Cameron\Documents\GitHub\PrimeNumbers\PrimeNumberSolution\PrimeCalculator.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Cameron\Documents\GitHub\PrimeNumbers\PrimeNumberSolution\PrimeCalculator.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Cameron\Documents\GitHub\PrimeNumbers\PrimeNumberSolution\PrimeCalculator.Web\bin\PrimeCalculator.Web.dll.config
+C:\Users\Cameron\Documents\GitHub\PrimeNumbers\PrimeNumberSolution\PrimeCalculator.Web\bin\PrimeCalculator.Web.dll
+C:\Users\Cameron\Documents\GitHub\PrimeNumbers\PrimeNumberSolution\PrimeCalculator.Web\bin\PrimeCalculator.Web.pdb
+C:\Users\Cameron\Documents\GitHub\PrimeNumbers\PrimeNumberSolution\PrimeCalculator.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Cameron\Documents\GitHub\PrimeNumbers\PrimeNumberSolution\PrimeCalculator.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Cameron\Documents\GitHub\PrimeNumbers\PrimeNumberSolution\PrimeCalculator.Web\bin\PrimeNumberSolution.dll
+C:\Users\Cameron\Documents\GitHub\PrimeNumbers\PrimeNumberSolution\PrimeCalculator.Web\bin\System.Web.Helpers.dll
+C:\Users\Cameron\Documents\GitHub\PrimeNumbers\PrimeNumberSolution\PrimeCalculator.Web\bin\System.Web.Mvc.dll
+C:\Users\Cameron\Documents\GitHub\PrimeNumbers\PrimeNumberSolution\PrimeCalculator.Web\bin\System.Web.Razor.dll
+C:\Users\Cameron\Documents\GitHub\PrimeNumbers\PrimeNumberSolution\PrimeCalculator.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Cameron\Documents\GitHub\PrimeNumbers\PrimeNumberSolution\PrimeCalculator.Web\bin\System.Web.Webpages.dll
+C:\Users\Cameron\Documents\GitHub\PrimeNumbers\PrimeNumberSolution\PrimeCalculator.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Cameron\Documents\GitHub\PrimeNumbers\PrimeNumberSolution\PrimeCalculator.Web\bin\PrimeNumberSolution.pdb
+C:\Users\Cameron\Documents\GitHub\PrimeNumbers\PrimeNumberSolution\PrimeCalculator.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Cameron\Documents\GitHub\PrimeNumbers\PrimeNumberSolution\PrimeCalculator.Web\bin\System.Web.Razor.xml
+C:\Users\Cameron\Documents\GitHub\PrimeNumbers\PrimeNumberSolution\PrimeCalculator.Web\bin\System.Web.Webpages.xml
+C:\Users\Cameron\Documents\GitHub\PrimeNumbers\PrimeNumberSolution\PrimeCalculator.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Cameron\Documents\GitHub\PrimeNumbers\PrimeNumberSolution\PrimeCalculator.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Cameron\Documents\GitHub\PrimeNumbers\PrimeNumberSolution\PrimeCalculator.Web\bin\System.Web.Helpers.xml
+C:\Users\Cameron\Documents\GitHub\PrimeNumbers\PrimeNumberSolution\PrimeCalculator.Web\bin\System.Web.Mvc.xml
+C:\Users\Cameron\Documents\GitHub\PrimeNumbers\PrimeNumberSolution\PrimeCalculator.Web\obj\Debug\PrimeCalculator.Web.csprojResolveAssemblyReference.cache
+C:\Users\Cameron\Documents\GitHub\PrimeNumbers\PrimeNumberSolution\PrimeCalculator.Web\obj\Debug\PrimeCalculator.Web.dll
+C:\Users\Cameron\Documents\GitHub\PrimeNumbers\PrimeNumberSolution\PrimeCalculator.Web\obj\Debug\PrimeCalculator.Web.pdb

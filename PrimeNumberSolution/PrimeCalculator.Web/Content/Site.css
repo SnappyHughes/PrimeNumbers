@@ -16,6 +16,9 @@
     font-size: 18px;
     margin: 20px;
     margin-bottom: 35px;
+    border-radius: 10px;
+    border-color: black;
+    background-color: transparent;
 }
 
 .result{

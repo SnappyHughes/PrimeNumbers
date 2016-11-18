@@ -21,7 +21,7 @@ namespace PrimeCalculator.Web.Controllers
         [HttpPost]
         public ActionResult Index(int nthPrime)
         {
-            if (nthPrime == 0)
+            if (nthPrime < 1)
             {
                 ViewBag.Message = MessageHelper.InputIsInvalid;
                 return View("Index");
